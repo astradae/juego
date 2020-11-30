@@ -1,1 +1,6 @@
 # juego
+
+juego del truco
+
+
+
